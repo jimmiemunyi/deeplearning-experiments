@@ -12,4 +12,4 @@ Experimental Projects as I learn the fastai MOOC at https://course.fast.ai/
 
 1. [MNIST From Scratch](https://github.com/jimmiemunyi/fastai-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
 
-I solve MNIST with the code written from scratch.
+    I solve MNIST with the code written from scratch.
