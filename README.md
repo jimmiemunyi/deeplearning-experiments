@@ -9,6 +9,5 @@ Experimental Projects as I learn about Deep Learning
 
 ## Notebooks
 
-1. [MNIST From Scratch](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
-
-    I solve MNIST with the code written from scratch.
+*   [MNIST From Scratch](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
+*   [Sign Language Classification](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/Sign_Language_Classification.ipynb)
