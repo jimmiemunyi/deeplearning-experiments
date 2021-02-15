@@ -11,3 +11,4 @@ Experimental Projects as I learn about Deep Learning
 
 *   [MNIST From Scratch](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
 *   [Sign Language Classification](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/Sign_Language_Classification.ipynb)
+*   [Book Recommender System](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/Book_Recommendation.ipynb)
