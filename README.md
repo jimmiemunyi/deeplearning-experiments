@@ -1,8 +1,10 @@
-# Deep Learning Experiments
+# Deep Learning Experimental Notebooks
 [![GitHub license](https://img.shields.io/github/license/jimmiemunyi/deeplearning-experiments)](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/LICENSE)
 
 
-Experimental Projects as I learn about Deep Learning
+Experimental Projects as I learn about Deep Learning.
+
+Most of these get converted to a clean blog post in my [Research Blog](https://jimmiemunyi.github.io/blog/).
 
 <hr>
 
