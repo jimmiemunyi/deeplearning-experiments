@@ -9,6 +9,13 @@ Most of these get converted to a clean blog post in my [Research Blog](https://j
 <hr>
 
 
+## Implementing Research Papers
+
+* [Deep Residual Learning For Image Recognition](https://jimmiemunyi.github.io/blog/tutorial/2021/09/27/Deep-Residual-Learning-For-Image-Recognition.html)
+
+<hr>
+
+
 ## Notebooks
 
 *   [MNIST From Scratch](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
