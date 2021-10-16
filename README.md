@@ -16,6 +16,12 @@ Most of these get converted to a clean blog post in my [Research Blog](https://j
 
 <hr>
 
+## General Experiments
+
+* [Using PyTorch Hooks for Visualizing Activations](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/PyTorch_Hooks.ipynb)
+
+
+<hr>
 
 ## Image Classification
 
