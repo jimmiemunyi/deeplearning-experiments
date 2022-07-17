@@ -27,6 +27,8 @@ Most of these get converted to a clean blog post in my [Research Blog](https://j
 
 *   [MNIST From Scratch](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/MNIST_From_Scratch.ipynb)
 *   [Sign Language Classification](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/Sign_Language_Classification.ipynb)
+*   [Identify this Insect](https://github.com/jimmiemunyi/deeplearning-experiments/blob/main/notebooks/Centipede vs Millipede vs Caterpillar.ipynb)
+
 
 <hr>
 
